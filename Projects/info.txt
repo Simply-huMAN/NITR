@@ -1,0 +1,1 @@
+This folder contains the small and large projects that I've built during my engineering course.
