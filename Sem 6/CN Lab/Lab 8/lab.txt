@@ -1,0 +1,3 @@
+1)code of chandrajit mahi for arrays declaration in awk script.
+2) delay awk file.
+3) is pkt_id of a packet and pkt_id of its ack have any relation? No relation.
