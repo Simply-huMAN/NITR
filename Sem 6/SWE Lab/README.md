@@ -7,3 +7,4 @@
 > #### [Lab 5 (Usecase diagram)](https://github.com/Simply-huMAN/NITR/tree/main/Sem%206/SWE%20Lab/Lab%205)
 > #### [Lab 6 (Class diagram)](https://github.com/Simply-huMAN/NITR/tree/main/Sem%206/SWE%20Lab/Lab%207)
 > #### [Lab 7 (Activity diagram and State-chart diagram)](https://github.com/Simply-huMAN/NITR/tree/main/Sem%206/SWE%20Lab/Lab%207(Original))
+> #### [UML](https://github.com/Simply-huMAN/NITR/blob/main/Sem%206/SWE%20Lab/UML.odt)
