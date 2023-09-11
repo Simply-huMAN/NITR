@@ -1,0 +1,3 @@
+Analyze CSMA-broadcast, CSMA-multicast, and CSMA-one-subnet.
+Do the result analysis via .xml, .tr, and .pcap files generated from the code run.
+Display the result in NetAnim, Tracemetrics, and Wireshark.
